@@ -34,3 +34,9 @@ The model predicts diabetes progression and evaluates performance using:
 - Root Mean Squared Error (RMSE)
 
 ## 📂 Project Structure
+Diabetes_Progression_Prediction/
+│
+├── diabetes_prediction.ipynb
+├── README.md
+├── requirements.txt
+└── images/
